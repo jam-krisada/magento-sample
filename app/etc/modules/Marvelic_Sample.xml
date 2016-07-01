@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Marvelic_Sample>
+            <active>true</active>
+            <codePool>local</codePool>
+            <version>0.0.1</version>
+        </Marvelic_Sample>
+    </modules>
+</config>

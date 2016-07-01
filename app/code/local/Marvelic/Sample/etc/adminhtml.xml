@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+    <menu>
+        <marvelic>
+            <title>Sample</title>
+            <sort_order>99</sort_order>
+            <children>
+                <sampleconfig>
+                    <title>Sample Config</title>
+                    <sort_order>100</sort_order>
+                    <action>adminhtml/sample_config/index</action>
+                </sampleconfig>
+            </children>
+        </marvelic>
+    </menu>
+    <acl>
+        <resources>
+            <admin>
+                <children>
+                </children>
+            </admin>
+        </resources>
+    </acl>
+</config>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Marvelic_Sample>
+            <version>0.0.1</version>
+        </Marvelic_Sample>
+    </modules>
+    <global>
+        <marvelic_sample>
+            <class>Marvelic_Sample_Helper</class>
+        </marvelic_sample>
+    </global>
+</config>
